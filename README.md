@@ -1,12 +1,12 @@
 
+# Text Correction (ENG)
 
+<i>spell checker making correction suggestions to users
+for badly written words.</i>
 
+The corrector is called from the command line with the following arguments:
 
-
-
-
-
-
+     java Correcteur text-to-correct.txt dictionary.txt
 
 
 # Correcteur orthographique (FR)
